@@ -1,1 +1,1 @@
-# myqrscanner
+# MyQRScanner
